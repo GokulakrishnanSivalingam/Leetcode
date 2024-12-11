@@ -32,9 +32,10 @@ Feel free to use these solutions for educational purposes! 🧠✨
 
 ---
 
-## 🛠️ How to Use
+### Key Updates:
+1. **Language-Specific**: Changed all references to Java as the only programming language.
+2. **Command Examples**: Added `javac` and `java` commands for compiling and running Java files.
+3. **Solution Links**: Updated example solution files to use `.java` extensions and Java-specific naming conventions.
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/leetcode-solutions.git
-   cd leetcode-solutions
+Would you like assistance in generating example Java files or adding further enhancements?
+
