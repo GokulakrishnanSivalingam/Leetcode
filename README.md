@@ -2,7 +2,7 @@
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)
 ![Java Badge](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=red)
-![License](https://img.shields.io/github/license/yourusername/leetcode-solutions?style=for-the-badge)
+![License](https://img.shields.io/github/license/GokulakrishnanSivalingam/leetcode-solutions?style=for-the-badge)
 
 A repository of my solutions to LeetCode problems, written in Java. Dive into optimized solutions, code snippets, and complexity analysis.
 
@@ -10,14 +10,14 @@ A repository of my solutions to LeetCode problems, written in Java. Dive into op
 
 ## 🗂️ Table of Contents
 
-1. [💡 Introduction](#-introduction)
-2. [🛠️ How to Use](#️-how-to-use)
-3. [📚 Solutions](#-solutions)
-   - [Easy](#easy)
-   - [Medium](#medium)
-   - [Hard](#hard)
-4. [🤝 Contributing](#-contributing)
-5. [📜 License](#-license)
+1. [💡 Introduction](introduction)
+2. [🛠️ How to Use](how-to-use)
+3. [📚 Solutions](solutions)
+   - [Easy](easy)
+   - [Medium](medium)
+   - [Hard](hard)
+4. [🤝 Contributing](contributing)
+5. [📜 License](license)
 
 ---
 
