@@ -7,7 +7,11 @@
 A repository of my solutions to LeetCode problems, written in Java. Dive into optimized solutions, code snippets, and complexity analysis.
 
 ---
+## leetcode stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=radical&font=Murecho)
 
+ ---
+ 
 ## 🗂️ Table of Contents
 
 1. [💡 Introduction](introduction)
