@@ -57,8 +57,7 @@ Help make this repository even better by adding more optimized or alternative so
 
 ### 📊 Topic Distribution
 
-![Pie Chart](https://quickchart.io/chart?c=%7Btype%3A%22pie%22%2Cdata%3A%7Blabels%3A%5B%22Arrays%22%2C%22Linked%20List%22%2C%22Trees%22%2C%22Graphs%22%2C%22Others%22%5D%2Cdatasets%3A%5B%7Bdata%3A%5B77%2C12%2C10%2C5%2C39%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%22right%22%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%22LeetCode%20Topic%20Distribution%22%7D%7D%7D)
-
+![Bar Chart](https://quickchart.io/chart?c=%7Btype%3A%22bar%22%2Cdata%3A%7Blabels%3A%5B%22Arrays%22%2C%22Linked%20List%22%2C%22Trees%22%2C%22Graphs%22%2C%22Others%22%5D%2Cdatasets%3A%5B%7Blabel%3A%22Problems%22%2Cdata%3A%5B77%2C12%2C10%2C5%2C39%5D%2CbackgroundColor%3A%5B%22%23f39c12%22%2C%22%238e44ad%22%2C%22%232ecc71%22%2C%22%231abc9c%22%2C%22%23e74c3c%22%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%22LeetCode%20Topic%20Distribution%20-%20Bar%20Chart%22%7D%7D%7D)
 
 
 ## ⚙️ How to Use
