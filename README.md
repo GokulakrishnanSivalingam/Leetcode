@@ -65,7 +65,7 @@ Help make this repository even better by adding more optimized or alternative so
 ```bash
 # Clone the repo
 git clone https://github.com/GokulakrishnanSivalingam/leetcode.git
-cd leetcode-solutions
+cd leetcode
 
 # Compile and run a file
 javac TwoSum.java
