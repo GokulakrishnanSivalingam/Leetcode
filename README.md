@@ -2,7 +2,7 @@
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)
 ![Java Badge](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=red)
-![License](https://img.shields.io/github/license/GokulakrishnanSivalingam/leetcode-solutions?style=for-the-badge)
+![License](https://img.shields.io/github/license/GokulakrishnanSivalingam/leetcode?style=for-the-badge)
 
 > A repository of my curated and optimized **Java** solutions to **LeetCode** problems.  
 > Dive into patterns, algorithms, time-space complexity, and clean code snippets. 👨‍💻
