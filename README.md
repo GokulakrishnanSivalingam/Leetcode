@@ -70,3 +70,7 @@ cd leetcode
 # Compile and run a file
 javac TwoSum.java
 java TwoSum
+```
+## License
+
+This project is licensed under the [MIT License](LICENSE).
