@@ -11,7 +11,7 @@
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=radical&font=Murecho)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=nord&font=changa&ext=activity)
 
 ---
 
