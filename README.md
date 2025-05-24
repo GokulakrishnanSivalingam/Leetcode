@@ -32,12 +32,12 @@ This repository contains my Java-based solutions to LeetCode problems. Each solu
 
 | 🧠 Topic                  | ✅ Problems |
 |--------------------------|-------------|
-| 📦 Arrays                | 77          |
-| 🔗 Linked List           | 12          |
-| 🌳 Trees                 | 10          |
+| 📦 Arrays                | 80+         |
+| 🔗 Linked List           | 15+          |
+| 🌳 Trees                 | 10+         |
 | 🌐 Graphs                | 5           |
 | 🧮 Others (Strings, DP…) | 39          |
-| **🧾 Total**             | **143**     |
+| **🧾 Total**             | **186**     |
 
 ---
 ## 🤝 Contributing
