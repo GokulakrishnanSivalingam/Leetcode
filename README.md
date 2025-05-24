@@ -36,7 +36,7 @@ This repository contains my Java-based solutions to LeetCode problems. Each solu
 | 🔗 Linked List           | 15+          |
 | 🌳 Trees                 | 10+         |
 | 🌐 Graphs                | 5           |
-| 🧮 Others (Strings, DP…) | 39          |
+| 🧮 Others (Strings, DP…) | 50+        |
 | **🧾 Total**             | **186**     |
 
 ---
